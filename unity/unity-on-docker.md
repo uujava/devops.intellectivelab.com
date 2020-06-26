@@ -43,3 +43,6 @@ docker run --rm -it -v <LOCAL_PATH>:/opt/vu/unity_config.xml -v <LOCAL_PATH>:/op
 # Advanced image customization
 The image based on [the official OpenLiberty image](https://hub.docker.com/_/open-liberty). All the configuartion and customization capabilities this image provides
 are supported here as well.
+
+---
+&copy; 2020 Intellective
