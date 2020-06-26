@@ -4,6 +4,7 @@ The following deployment architecture relies on Unity docker image described abo
 and Istio service mesh (specifically, on its traffic management features).
 
 Here's the general architecture:
+
 ![Unity on Kubernetes](unity_k8s.png)
 
 Blue boxes are native Kubernetes entities - deployment, pods, service. Light-blue boxes are Istio's - gateway, virtual service and destination rule.
