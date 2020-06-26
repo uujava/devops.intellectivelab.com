@@ -170,6 +170,3 @@ Istio is well-known and widely used service mash. Besides of traffic management 
 However, if the target cluster doesn't have Istio installed it could be replaced by introducing the Ingress Controller
 manually. [The NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/) could be deployed and configured in this case. 
 Be advised, Unity requires [configuring "Sticky sessions"](https://kubernetes.github.io/ingress-nginx/examples/affinity/cookie/) to scale.
-
----
-&copy; 2020 Intellective
