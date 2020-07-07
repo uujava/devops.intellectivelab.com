@@ -1,5 +1,5 @@
 # DevOps Documentation Site
-
+{:toc}
 ## Getting started 
 This site contains all the public documentation about DevOps activities.
 Test pages generated. For sure.
@@ -20,8 +20,9 @@ Test pages generated. For sure.
 
 [Contact Intellective](https://www.intellective.com/contact-us/)
 
-- A
-- B
-- C
-# D
+* A
+* B
+* C
 {:toc}
+# D
+
