@@ -1,5 +1,7 @@
-# DevOps Documentation Site
 {:toc}
+
+# DevOps Documentation Site
+
 ## Getting started 
 This site contains all the public documentation about DevOps activities.
 Test pages generated. For sure.
