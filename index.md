@@ -1,10 +1,16 @@
 # DevOps Documentation Site
 
-## Getting started 
+[Getting started](#started)
+
+  [Contents](#contents)
+
+[Contacts](#email)
+
+## Getting started   {#started}
 This site contains all the public documentation about DevOps activities.
 Test pages generated. For sure.
 
-## Contents
+## Contents   {#contents}
 
 **Containers**
 
@@ -16,7 +22,7 @@ Test pages generated. For sure.
 
 [Overview](./envmgmt/overview.md): GitOps approach implemented using Terraform, Helm, AWS EC2
 
-## Contacts
+## Contacts {#email}
 
 [Contact Intellective](https://www.intellective.com/contact-us/)
 
