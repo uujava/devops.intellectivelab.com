@@ -1,5 +1,3 @@
-{:toc}
-
 # DevOps Documentation Site
 
 ## Getting started 
@@ -28,3 +26,4 @@ Test pages generated. For sure.
 
 # D
 
+{:toc}
