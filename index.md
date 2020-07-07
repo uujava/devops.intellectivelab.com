@@ -1,7 +1,8 @@
 # DevOps Documentation Site
 
-## Getting started
+## Getting started 
 This site contains all the public documentation about DevOps activities.
+Test pages generated.
 
 ## Contents
 
