@@ -23,6 +23,6 @@ Test pages generated. For sure.
 * A
 * B
 * C
-{:toc}
+
 # D
 
